@@ -122,7 +122,7 @@ do_not_bother:
 ## 贡献
 
 * 喜欢本项目请先打一颗星；
-* 提 bug 请到 [issue 页面](（https://github.com/ROS-Hub/RosBot/issues))；
+* 提 bug 请到 [issue 页面](https://github.com/ROS-Hub/RosBot/issues)；
 * 要贡献代码，欢迎 fork 之后再提 pull request；
 
 
